@@ -1,6 +1,9 @@
 # Emtion-DIary
 React.js를 사용하여 싱글페이지 감정일기장 구현
 
+#배포<br/>
+https://gyun1712-react-project.firebaseapp.com/
+
 #Home
 
 <img width="300" src="https://user-images.githubusercontent.com/98458302/186392464-9748ab2a-0f41-430b-8f32-98000a94be1b.png">
